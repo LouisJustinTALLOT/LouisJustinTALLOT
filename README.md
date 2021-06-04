@@ -2,10 +2,9 @@
 
 ## My repositories by language :
 
-- [`C`](https://github.com/LouisJustinTALLOT/C)
-- [`C++`](https://github.com/LouisJustinTALLOT/CPP)
-- [`Python`](https://github.com/LouisJustinTALLOT/Python)
-- [`Python`](https://github.com/LouisJustinTALLOT/Python)
+- <img src="images/c_logo.png" alt="C" width="15" height="15"> [`C`](https://github.com/LouisJustinTALLOT/C)
+- <img src="images/cpp_logo.png" alt="C" width="15" height="15"> [`C++`](https://github.com/LouisJustinTALLOT/CPP)
+- <img src="images/python_logo.png" alt="C" width="15" height="15">[`Python`](https://github.com/LouisJustinTALLOT/Python)
 - [`Cython`](https://github.com/LouisJustinTALLOT/Cython)
 - [`Prolog`](https://github.com/LouisJustinTALLOT/Prolog)
 - [`Fortran`](https://github.com/LouisJustinTALLOT/Fortran)
