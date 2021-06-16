@@ -1,5 +1,8 @@
 # Welcome on my `Github` profile !
 
+![Metrics](https://metrics.lecoq.io/LouisJustinTALLOT?template=classic&isocalendar=1&languages=1&people=1&lines=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.ignored=ReScript%2C%20Roff%2C%20HTML%2C%20Gnuplot%2C%20Jupyter%20Notebook&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FParis)
+
+
 ## My repositories by language :
 
 - <img src="images/c_logo.png"      alt="C"      width="15" height="15"> [`C`](https://github.com/LouisJustinTALLOT/C)
